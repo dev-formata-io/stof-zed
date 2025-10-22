@@ -1,2 +1,2 @@
-# stof-zed
+# Stof Zed
 Zed extension for Stof.

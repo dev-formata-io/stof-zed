@@ -1,0 +1,7 @@
+id = "stof"
+name = "Stof"
+version = "0.0.1"
+schema_version = 1
+authors = ["CJ Cummings <cj@formata.io>"]
+description = "A declarative runtime for data workflows"
+repository = "https://github.com/dev-formata-io/stof-zed"
